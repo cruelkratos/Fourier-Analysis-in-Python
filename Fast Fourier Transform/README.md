@@ -9,3 +9,5 @@ $$\mathcal{F}(u,v) = \iint_{\mathbb{R}} f(x,y)e^{-j2\pi\(ux+vy)} dx dy$$
 Used in image processing similarly Inverse maybe written as: 
 
 $$f(x,y) = \iint_{\mathbb{R}} \mathcal{F}(u,v)e^{j2\pi\(ux+vy)} du dv$$
+
+Reference: https://www.youtube.com/watch?v=nmgFG7PUHfo (Veritasium 🛐)
